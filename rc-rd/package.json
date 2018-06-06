@@ -1,0 +1,14 @@
+{
+  "name": "rc-redux",
+  "version": "1.0.0",
+  "description": "衍生出的redux简化API",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "小小庄",
+  "license": "ISC"
+}
