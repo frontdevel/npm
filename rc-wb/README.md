@@ -11,8 +11,8 @@
   "port": "9998",           // 服务启动端口
   "publicPath": "/",        // 上线打包配置，通常为线上服务器根目录
   "proxy": [{               // 本地代理模式
-    "context": ["/upload", "/accountJP", "/planJP", "/statistics", "/searchPlan", "/flow", "/targetAdPlan", "/userVoucher"],
-    "target": "http://e.4399.cn:8113",
+    "context": ["/api"],
+    "target": "http://xxxx.xxx.xx:9999",
     "changeOrigin": "true"
   }]
   "alias": {
